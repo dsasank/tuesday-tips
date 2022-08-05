@@ -3,8 +3,8 @@ A Promise in NodeJS/javaScript/React is similar to a promise in real life. It is
 Example of promise 
 ![image](https://user-images.githubusercontent.com/98147894/183075927-4912be04-2306-4472-b7fd-0dd90d626a99.png)
 ![image](https://user-images.githubusercontent.com/98147894/183075966-f9a92a72-5580-43a6-ba04-c2cdc814fa62.png)
-Async :
-It is just a wrapper to restyle code and make promises easier to read and use.
+
+Async :It is just a wrapper to restyle code and make promises easier to read and use.
 This helps to remove many of the problems with nesting that promises have,To use async-await, we just need to create an async function in which we will await our promise to be completed. If it gets resolved we will get the result otherwise an error will be thrown. 
 ![image](https://user-images.githubusercontent.com/98147894/183076005-f7822800-bc45-4c88-8d90-e2be930eb629.png)
 Await can only be used inside an async function or async callback or async arrow function.
